@@ -9,7 +9,7 @@
 // longest(a, a) -> "abcdefghijklmnopqrstuvwxyz"
 
 
-// SOLUTION
+// POSSIBLE SOLUTION
 
 function longest(s1, s2) {
     const combinedString = s1 + s2;
